@@ -20,7 +20,3 @@ Random Forest Classifier ,Naïve Bayes Classifier ,Decision Tree Classifier ,Log
 
 
 
-For Testing the project, comment all the classifers code except the calling of the saving of the classifer function which is already commented in the uploaded code, run the project to save the classifers and after it finishes return the project as its uploaded to review the results.
-
-
-Note:Saving the classifers would take some period of time
